@@ -24,7 +24,5 @@ fabric.properties
 /.idea
 /.gradle
 /build
-/app/app.iml
 /local.properties
 *.iml
-/local.properties
